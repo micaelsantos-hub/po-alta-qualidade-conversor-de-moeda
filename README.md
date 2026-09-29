@@ -1,4 +1,4 @@
-# Agile Docs & Code — Conversor de Moedas
+# Parada Obrigatória - Agile Docs & Code — Conversor de Moedas
 
 Atividade de simulação de uma sprint Scrum: conversor de moedas (USD, EUR, BRL, GBP, JPY, CAD e ARS)
 com interface web em Flask, testes unitários com `unittest` e documentação técnica.
@@ -24,7 +24,7 @@ aplicação usa taxas pré-definidas e avisa na tela.
 python -m unittest discover -v
 ```
 
-54 testes, todos offline (a API é simulada).
+54 testes, todos offline (a API é mockada).
 
 ## Estrutura
 
@@ -35,11 +35,7 @@ conversor/taxas.py           API de taxas com fallback
 conversor/web.py             aplicação Flask
 conversor/templates/         página HTML
 tests/                       testes unitários
-docs/criterios_aceitacao.md  critérios de aceitação e Definição de Pronto
 docs/documentacao_tecnica.md descrição, fluxo, interfaces, armazenamento, APIs
-docs/revisao.md              feedback da revisão e sugestões de melhoria
-docs/guia_trello.md          montagem do quadro Trello
-docs/reflexao_scrum.md       reflexão sobre o processo
 ```
 
 ## Créditos
