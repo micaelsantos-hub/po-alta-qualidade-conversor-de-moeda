@@ -3,7 +3,7 @@
 Atividade de simulação de uma sprint Scrum: conversor de moedas (USD, EUR, BRL, GBP, JPY, CAD e ARS)
 com interface web em Flask, testes unitários com `unittest` e documentação técnica.
 
-- **Quadro Trello:** https://trello.com/b/KkuWlxO0/agile-docs-code-sprint
+- **Quadro Trello:** [agile-docs-code-sprint](https://trello.com/invite/b/6abaf0b437769307bb05546f/ATTIba867575a441d98cbd73ab7dbb01dee1EEB75BEE/agile-docs-code-sprint)
 - **Repositório:** https://github.com/micaelsantos-hub/po-alta-qualidade-conversor-de-moeda
 
 ## Executar
